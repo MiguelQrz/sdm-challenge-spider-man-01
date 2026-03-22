@@ -166,17 +166,25 @@ Você deverá demonstrar:
 
 ---
 
-# 📁 Entrega
+# 📁 Entrega e Submissão
 
-### 1️⃣ GitHub
+Para realizar a entrega, siga os passos abaixo para garantir o versionamento correto do seu nó da rede SpideySense:
 
-Clique em **Fork** neste repositorio, e posteriormente versione o seu codigo concluido em sua conta pessoal.
+### 1️⃣ Fluxo de Trabalho no GitHub
+1. Clique no botão **Fork**, localizado no canto superior direito deste repositório, para criar uma cópia em sua conta pessoal.
+2. Clone o **seu fork** para sua máquina local.
+3. Desenvolva a solução em .NET 10.
+4. Faça o `commit` e `push` das alterações para o seu GitHub.
 
-O repositório deve conter:
+### 2️⃣ O que o Repositório deve conter:
+- [ ] **Código Fonte:** A Solution completa da Web API.
+- [ ] **Arquitetura:** Estrutura MVC organizada (Controllers, Models).
+- [ ] **Evidências:** Prints do Swagger/Postman ou um arquivo `.http` demonstrando os métodos GET e POST funcionando.
 
-* Código da API
-* Estrutura MVC organizada
-* Prints ou arquivo `.http` demonstrando os testes
+### 3️⃣ Envio Final
+Após finalizar, copie a URL do **seu repositório** (ex: `https://github.com/seu-usuario/sdm-challenge-spider-man-01`) e envie na plataforma indicada em aula.
+
+> ⚠️ **Atenção:** Certifique-se de que o repositório esteja configurado como **Público** para que o professor possa avaliar o código.
 
 ---
 
